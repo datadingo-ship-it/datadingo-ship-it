@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,100:4F46E5&amp;height=180&amp;section=header&amp;text=Kwak%20Jaeyang&amp;fontColor=ffffff&amp;fontSize=36" width="100%" alt="Kwak Jaeyang 프로필 배너">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,100:4F46E5&amp;height=180&amp;section=header&amp;text=Kwak%20Jaeyang&amp;fontColor=ffffff&amp;fontSize=36" width="100%" alt="Datadingo 프로필 배너">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=1000&amp;color=4F46E5&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=Project+Management;Data+Analytics;AI+and+Collaboration" alt="Project Management, Data Analytics, AI and Collaboration">
 
