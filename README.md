@@ -1,9 +1,8 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:4F46E5&height=190&section=header&text=Projects,%20People%20%26%20Data&fontColor=ffffff&fontSize=34" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=190&section=header&text=Projects,%20People%20and%20Data&fontColor=ffffff&fontSize=34" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4F46E5&center=true&vCenter=true&width=520&lines=Project+Management;Data+Analytics;AI+%26+Collaboration" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Planning;Collaboration;Data+Driven+Decisions" />
 
 </div>
 
