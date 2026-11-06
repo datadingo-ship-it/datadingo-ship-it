@@ -30,7 +30,7 @@
 
 | 구분 | 내용 |
 | :--- | :--- |
-| **현장 경험** | 지앤선 아동발달센터 사회성 치료사 (2023–2025) · 치료 및 부모 상담, 운영 문서와 협업 체계 정비 |
+| **현장 경험** | 아동발달센터 사회성 치료사 (2023–2025) · 치료 및 부모 상담, 운영 문서와 협업 체계 정비 |
 | **데이터** | Python · SQL · Pandas · NumPy · Tableau |
 | **AI** | scikit-learn · PyTorch · XGBoost · Google Colab |
 | **협업** | Notion · FigJam · Google Workspace · Git · GitHub |
