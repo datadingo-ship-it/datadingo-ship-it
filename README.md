@@ -35,7 +35,7 @@
 | **AI** | scikit-learn · PyTorch · XGBoost · Google Colab |
 | **협업** | Notion · FigJam · Google Workspace · Git · GitHub |
 | **교육** | SK Planet T Academy 데이터 분석·ML·DL 교육 940시간 이수 (2026) |
-| **학력** | 성균관대학교 심리학과·아동청소년학과 | 학사아동청소년학과 석사 | 서울사이버대학교 특수심리치료학과 학사 |
+| **학력** | 성균관대학교 심리학과·아동청소년학과 학사 / 아동청소년학과 석사 / 서울사이버대학교 특수심리치료학과 학사 |
 
 
 
